@@ -42,7 +42,7 @@ Para crear una variable en JavaScript utilizamos la palabra clave `var`, seguida
 
 > Nota: Las palabras claves o keywords son palabras especiales que utiliza el lenguaje para indicar algo. No podremos usas las palabras claves del lenguaje cómo nombres de variables.
 
-Existen tres formas de declarar una variable:
+Existen tres formas de declarar una variable:-
 
 ### var
 
