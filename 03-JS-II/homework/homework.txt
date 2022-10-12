@@ -1,0 +1,10 @@
+* `for`
+* `&&`, `||`, `!`
+
+for: se utiliza para repetir una o más instrucciones las veces que estemos seguro
+
+ && AND el resultado es verdadero si ambas expresiones son verdaderas
+
+ || OR el resultado es verdadero si alguna expresión es 
+ 
+ ! seria NOT devuevlo el booleano opuesto de lo que dio.
