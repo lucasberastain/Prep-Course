@@ -1,0 +1,16 @@
+* Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+
+ Variables: Las variables son para guardar datos que luego podemos utilizar
+ 
+ Strings: Los strings es un tipo de variable de texto, que se permite manipular
+
+ Funciones: Es un codigo que da instrucciones o una tarea a voluntad.
+
+ Declaraciones IF: Nos permite realizar varias decisiones para realizar una o varias funciones utilizando un else.
+
+ Valores booleanos: Representa un valor de verdad TRUE o falso FALSE
