@@ -1,5 +1,5 @@
-* `for`
-* `&&`, `||`, `!`
+*  `for`
+*  `&&`, `||`, `!`
 
 for: se utiliza para repetir una o más instrucciones las veces que estemos seguro
 
