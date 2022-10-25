@@ -56,7 +56,7 @@ function multiplica(x, y) {
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  var divide = x / y;
+  var divide = x  / y;
   return divide;
 }
 
